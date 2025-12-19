@@ -207,9 +207,9 @@ body.dark .member-card:hover {
   background-color: #2f2f2f;
 }
 #darkToggle {
-  position:fixed;
-  top:20px; 
-  right:20px; 
-  padding:10px 15px; 
-  cursor:pointer;
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 10px 15px;
+  cursor: pointer;
 }
